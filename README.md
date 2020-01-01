@@ -3,6 +3,13 @@
   <img src="https://i.imgur.com/7Ylvdy3.png">
 </p>
 
+# Update 
+
+The project has moved to
+
+https://github.com/Santosh-Gupta/NaturalLanguageRecommendations
+
+(I liked this name better)
 
 Upcoming project using Bert to model citation networks in research papers. 
 
